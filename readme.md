@@ -197,11 +197,9 @@ app
 
 ---
 
-## 📊 Progress Tracker (`progress.md`)
-
-```md
 # 📊 C++ Learning Progress
 
+## 🔹 C++ Basics
 - [ ] 01 Hello World
 - [ ] 02 Variables
 - [ ] 03 Data Types
@@ -214,6 +212,8 @@ app
 - [ ] 10 Pointers
 - [ ] 11 References
 - [ ] 12 Structures
+
+## 🔹 Object-Oriented Programming (OOP)
 - [ ] 13 Classes & Objects
 - [ ] 14 Constructors
 - [ ] 15 Destructors
@@ -222,9 +222,23 @@ app
 - [ ] 18 Polymorphism
 - [ ] 19 Abstraction
 - [ ] 20 Virtual Functions
-```
+- [ ] 21 Diamond Problem
+- [ ] 22 Abstract Classes
+- [ ] 23 Interfaces
+- [ ] 24 `this` Pointer
+- [ ] 25 Static Members
+- [ ] 26 `const` Keyword
+- [ ] 27 Object Lifecycle
 
----
+## 🔹 Advanced C++ Concepts
+- [ ] 28 File Handling
+- [ ] 29 Exception Handling
+
+## 🔹 Mini Projects
+- [ ] 30.1 Bank Account System
+- [ ] 30.2 Student Management System
+- [ ] 30.3 Shape Area Calculator
+
 
 ## ⭐ Support This Repository
 
